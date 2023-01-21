@@ -1,0 +1,13 @@
+<style>
+        * {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        body {background-color: yellowgreen;}
+        section {background-color: yellow;}
+        span {background-color: rgb(45, 88, 88);}
+        p {background-color: navajowhite;}
+        .class1 {text-align: center;}
+        #Title {text-decoration: underline;}
+        h1 {color: red;}
+        .class1 {color: green;}
+        #class1 {color: brown;}
+        #class2 {text-align: center;}
+    </style>
